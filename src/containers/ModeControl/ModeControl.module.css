@@ -1,0 +1,23 @@
+.Dark{
+    text-align: center;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    width : fit-content;
+    height: fit-content;
+    padding: 50px;
+    margin: auto;
+ }
+
+ .Light{
+    text-align: center;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    width : fit-content;
+    height: fit-content;
+    padding: 50px;
+    margin: auto;
+ }

@@ -1,0 +1,23 @@
+.DisplayPanelDark{
+    width: 390px;
+    height: 50px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: #666;
+    color: white;
+    text-align: right;
+    margin: auto;
+    font-size: medium;
+}
+
+.DisplayPanelLight{
+    width: 390px;
+    height: 50px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: #f0f0f0;
+    color: black;
+    text-align: right;
+    margin: auto;
+    font-size: large;
+}
